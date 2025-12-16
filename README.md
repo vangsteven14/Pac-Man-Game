@@ -2,9 +2,9 @@
 
 An inspired project that I modified to showcase my skills in analyzing, engineering, and extending existing code with customized design improvements as well as enhancing them with original design and functionality. <br>
 
-pacman.py demonstrates the classic retro version everyone loves!
-pacman_ghost_ver.py demonstrates an alternative approach where you spawn as a ghost.
-pacman_manyGhosts_ver.py demonstrates the classic version but with more challenge.
+pacman.py demonstrates the classic retro version everyone loves! <br>
+pacman_ghost_ver.py demonstrates an alternative approach where you spawn as a ghost. <br>
+pacman_manyGhosts_ver.py demonstrates the classic version but with more challenge. <br>
 
 <ins> **Resources, Inspirations, and Credits:** </ins> <br>
 
